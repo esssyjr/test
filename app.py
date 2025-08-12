@@ -4,7 +4,7 @@ from mcp.server.fastmcp import FastMCP
 
 
 # Keep using the same MCP instance as your other tools/resources
-mcp = FastMCP("test")
+mcp = FastMCP("test", port = 8001)
 
 # ✅ Simple tool (for MCP test)
 @mcp.tool()
