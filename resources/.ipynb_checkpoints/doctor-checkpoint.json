@@ -1,0 +1,352 @@
+{
+  "Alabama": {
+    "name": "Dr. John Smith",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-205-555-1234",
+    "email": "john.smith@alabamahealth.org",
+    "address": "123 Main St, Montgomery, AL"
+  },
+  "Alaska": {
+    "name": "Dr. Emily Johnson",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-907-555-5678",
+    "email": "emily.johnson@alaskahealth.org",
+    "address": "456 Arctic Ave, Anchorage, AK"
+  },
+  "Arizona": {
+    "name": "Dr. Carla Davis",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-602-555-9012",
+    "email": "carla.davis@arizonacare.org",
+    "address": "789 Desert Blvd, Phoenix, AZ"
+  },
+  "Arkansas": {
+    "name": "Dr. David Wilson",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-501-555-3456",
+    "email": "david.wilson@arkansashealth.org",
+    "address": "321 River Rd, Little Rock, AR"
+  },
+  "California": {
+    "name": "Dr. Eva Martinez",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-916-555-7890",
+    "email": "eva.martinez@calhealth.org",
+    "address": "654 Pacific Way, Sacramento, CA"
+  },
+  "Colorado": {
+    "name": "Dr. Frank Garcia",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-303-555-2345",
+    "email": "frank.garcia@coloradohealth.org",
+    "address": "987 Peak St, Denver, CO"
+  },
+  "Connecticut": {
+    "name": "Dr. Grace Hernandez",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-860-555-6789",
+    "email": "grace.hernandez@cthealth.org",
+    "address": "147 Bridge Ln, Hartford, CT"
+  },
+  "Delaware": {
+    "name": "Dr. Henry Lopez",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-302-555-1234",
+    "email": "henry.lopez@delawarehealth.org",
+    "address": "258 Bay Dr, Dover, DE"
+  },
+  "Florida": {
+    "name": "Dr. Isla Gonzalez",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-850-555-5678",
+    "email": "isla.gonzalez@floridahealth.org",
+    "address": "369 Palm St, Tallahassee, FL"
+  },
+  "Georgia": {
+    "name": "Dr. Jack Rodriguez",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-404-555-9012",
+    "email": "jack.rodriguez@gahhealth.org",
+    "address": "741 Peach Ave, Atlanta, GA"
+  },
+  "Hawaii": {
+    "name": "Dr. Kara Lee",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-808-555-3456",
+    "email": "kara.lee@hawaiihealth.org",
+    "address": "852 Ocean Rd, Honolulu, HI"
+  },
+  "Idaho": {
+    "name": "Dr. Liam Clark",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-208-555-7890",
+    "email": "liam.clark@idahohealth.org",
+    "address": "963 Mountain Dr, Boise, ID"
+  },
+  "Illinois": {
+    "name": "Dr. Mia Lewis",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-217-555-2345",
+    "email": "mia.lewis@illinoishealth.org",
+    "address": "174 Lake St, Springfield, IL"
+  },
+  "Indiana": {
+    "name": "Dr. Noah Walker",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-317-555-6789",
+    "email": "noah.walker@indianhealth.org",
+    "address": "285 Hoosier Way, Indianapolis, IN"
+  },
+  "Iowa": {
+    "name": "Dr. Olivia Hall",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-515-555-1234",
+    "email": "olivia.hall@iowahealth.org",
+    "address": "396 Cornfield Rd, Des Moines, IA"
+  },
+  "Kansas": {
+    "name": "Dr. Paul Allen",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-785-555-5678",
+    "email": "paul.allen@kansashealth.org",
+    "address": "507 Prairie Ln, Topeka, KS"
+  },
+  "Kentucky": {
+    "name": "Dr. Quinn Young",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-502-555-9012",
+    "email": "quinn.young@kyhealth.org",
+    "address": "618 Horse Trail, Frankfort, KY"
+  },
+  "Louisiana": {
+    "name": "Dr. Ryan King",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-225-555-3456",
+    "email": "ryan.king@louisianahealth.org",
+    "address": "729 Cajun St, Baton Rouge, LA"
+  },
+  "Maine": {
+    "name": "Dr. Sophia Scott",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-207-555-7890",
+    "email": "sophia.scott@mainehealth.org",
+    "address": "840 Pine Tree Rd, Augusta, ME"
+  },
+  "Maryland": {
+    "name": "Dr. Tyler Green",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-410-555-2345",
+    "email": "tyler.green@mdhealth.org",
+    "address": "951 Chesapeake Dr, Annapolis, MD"
+  },
+  "Massachusetts": {
+    "name": "Dr. Uma Adams",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-617-555-6789",
+    "email": "uma.adams@masshealth.org",
+    "address": "1062 Freedom Way, Boston, MA"
+  },
+  "Michigan": {
+    "name": "Dr. Victor Baker",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-517-555-1234",
+    "email": "victor.baker@michiganhealth.org",
+    "address": "1173 Auto Ave, Lansing, MI"
+  },
+  "Minnesota": {
+    "name": "Dr. Wendy Carter",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-651-555-5678",
+    "email": "wendy.carter@mnhealth.org",
+    "address": "1284 Lake Rd, St. Paul, MN"
+  },
+  "Mississippi": {
+    "name": "Dr. Xavier Diaz",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-601-555-9012",
+    "email": "xavier.diaz@mshealth.org",
+    "address": "1395 Blues Way, Jackson, MS"
+  },
+  "Missouri": {
+    "name": "Dr. Yara Evans",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-573-555-3456",
+    "email": "yara.evans@mohealth.org",
+    "address": "1506 Showme St, Jefferson City, MO"
+  },
+  "Montana": {
+    "name": "Dr. Zack Fisher",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-406-555-7890",
+    "email": "zack.fisher@mthealth.org",
+    "address": "1617 Ranch Rd, Helena, MT"
+  },
+  "Nebraska": {
+    "name": "Dr. Anna Gray",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-402-555-2345",
+    "email": "anna.gray@nebraskahealth.org",
+    "address": "1728 Cornhusker Dr, Lincoln, NE"
+  },
+  "Nevada": {
+    "name": "Dr. Ben Hill",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-775-555-6789",
+    "email": "ben.hill@nvhealth.org",
+    "address": "1839 Strip Rd, Carson City, NV"
+  },
+  "New Hampshire": {
+    "name": "Dr. Clara Irving",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-603-555-1234",
+    "email": "clara.irving@nhhealth.org",
+    "address": "1950 Maple St, Concord, NH"
+  },
+  "New Jersey": {
+    "name": "Dr. Dan Jenkins",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-609-555-5678",
+    "email": "dan.jenkins@njhealth.org",
+    "address": "2061 Shore Dr, Trenton, NJ"
+  },
+  "New Mexico": {
+    "name": "Dr. Ella Kim",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-505-555-9012",
+    "email": "ella.kim@nmhealth.org",
+    "address": "2172 Adobe Ln, Santa Fe, NM"
+  },
+  "New York": {
+    "name": "Dr. Finn Lopez",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-518-555-3456",
+    "email": "finn.lopez@nyhealth.org",
+    "address": "2283 State Rd, Albany, NY"
+  },
+  "North Carolina": {
+    "name": "Dr. Gina Morris",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-919-555-7890",
+    "email": "gina.morris@nchealth.org",
+    "address": "2394 Pine St, Raleigh, NC"
+  },
+  "North Dakota": {
+    "name": "Dr. Hank Nelson",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-701-555-2345",
+    "email": "hank.nelson@ndhealth.org",
+    "address": "2505 Prairie Way, Bismarck, ND"
+  },
+  "Ohio": {
+    "name": "Dr. Iris Owens",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-614-555-6789",
+    "email": "iris.owens@ohhealth.org",
+    "address": "2616 River Rd, Columbus, OH"
+  },
+  "Oklahoma": {
+    "name": "Dr. Jake Perez",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-405-555-1234",
+    "email": "jake.perez@okhealth.org",
+    "address": "2727 Oil Ave, Oklahoma City, OK"
+  },
+  "Oregon": {
+    "name": "Dr. Kira Quinn",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-503-555-5678",
+    "email": "kira.quinn@orhealth.org",
+    "address": "2838 Forest St, Salem, OR"
+  },
+  "Pennsylvania": {
+    "name": "Dr. Leo Rivera",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-717-555-9012",
+    "email": "leo.rivera@pahealth.org",
+    "address": "2949 Liberty Way, Harrisburg, PA"
+  },
+  "Rhode Island": {
+    "name": "Dr. Mia Sanchez",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-401-555-3456",
+    "email": "mia.sanchez@rihealth.org",
+    "address": "3060 Bay Rd, Providence, RI"
+  },
+  "South Carolina": {
+    "name": "Dr. Nate Turner",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-803-555-7890",
+    "email": "nate.turner@schealth.org",
+    "address": "3171 Magnolia Dr, Columbia, SC"
+  },
+  "South Dakota": {
+    "name": "Dr. Opal Underwood",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-605-555-2345",
+    "email": "opal.underwood@sdhealth.org",
+    "address": "3282 Hills St, Pierre, SD"
+  },
+  "Tennessee": {
+    "name": "Dr. Paul Vargas",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-615-555-6789",
+    "email": "paul.vargas@tnhealth.org",
+    "address": "3393 Music Rd, Nashville, TN"
+  },
+  "Texas": {
+    "name": "Dr. Quinn Wright",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-512-555-1234",
+    "email": "quinn.wright@txhealth.org",
+    "address": "3504 Ranch Ln, Austin, TX"
+  },
+  "Utah": {
+    "name": "Dr. Rita Xavier",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-801-555-5678",
+    "email": "rita.xavier@uthealth.org",
+    "address": "3615 Salt Lake Ave, Salt Lake City, UT"
+  },
+  "Vermont": {
+    "name": "Dr. Sam Yates",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-802-555-9012",
+    "email": "sam.yates@vthealth.org",
+    "address": "3726 Maple Dr, Montpelier, VT"
+  },
+  "Virginia": {
+    "name": "Dr. Tina Zimmerman",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-804-555-3456",
+    "email": "tina.zimmerman@vahealth.org",
+    "address": "3837 Colonial St, Richmond, VA"
+  },
+  "Washington": {
+    "name": "Dr. Umar Adams",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-360-555-7890",
+    "email": "umar.adams@wahealth.org",
+    "address": "3948 Rainier Rd, Olympia, WA"
+  },
+  "West Virginia": {
+    "name": "Dr. Vera Brown",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-304-555-2345",
+    "email": "vera.brown@wvhealth.org",
+    "address": "4059 Coal Ave, Charleston, WV"
+  },
+  "Wisconsin": {
+    "name": "Dr. Will Carter",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-608-555-6789",
+    "email": "will.carter@wichealth.org",
+    "address": "4170 Cheese St, Madison, WI"
+  },
+  "Wyoming": {
+    "name": "Dr. Xena Davis",
+    "specialization": "Infectious Disease Specialist",
+    "phone": "+1-307-555-1234",
+    "email": "xena.davis@wyhealth.org",
+    "address": "4281 Frontier Rd, Cheyenne, WY"
+  }
+}

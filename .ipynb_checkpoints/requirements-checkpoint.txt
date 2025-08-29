@@ -1,0 +1,7 @@
+mcp
+numpy
+Pillow
+google-generativeai
+mcp
+ultralytics
+

@@ -1,0 +1,56 @@
+{
+  "not_infected": {
+    "name": "Treatment Plan for Non-Infected Wound",
+    "description": "This plan is for minor wounds that are clean, without signs of infection such as redness, swelling, pus, or fever. The goal is to promote healing, prevent infection, and minimize scarring. Always consult a healthcare professional for deep or large wounds.",
+    "materials": [
+      "Mild soap and clean water",
+      "Sterile gauze or bandages",
+      "Antiseptic solution (e.g., hydrogen peroxide or iodine)",
+      "Antibiotic ointment (e.g., Neosporin)",
+      "Adhesive tape or self-adhesive bandages",
+      "Scissors (cleaned with alcohol)",
+      "Gloves (optional for hygiene)"
+    ],
+    "steps": {
+      "0": "Assess the wound: Ensure it's not deep, doesn't involve tendons/nerves, and bleeding is controlled. If bleeding persists, apply direct pressure with a clean cloth for 5-10 minutes. Elevate the area if possible to reduce swelling.",
+      "1": "Clean the wound thoroughly: Rinse under running cool water for at least 5 minutes to remove dirt, debris, and bacteria. Use mild soap around the edges but avoid getting soap directly in the wound if it's deep. Pat dry with a clean towel or sterile gauze—do not rub.",
+      "2": "Apply antiseptic: Gently apply a thin layer of antiseptic solution to kill any remaining bacteria. Avoid using alcohol directly on the wound as it can delay healing. Let it air dry for a moment.",
+      "3": "Apply antibiotic ointment: Spread a small amount of over-the-counter antibiotic ointment on the wound to keep it moist and prevent infection. This also reduces the risk of scarring.",
+      "4": "Dress the wound: Cover with a sterile bandage or gauze pad. Secure with adhesive tape. Choose a dressing that allows the wound to breathe but keeps it protected from dirt. For minor wounds, a waterproof bandage can be useful.",
+      "5": "Change dressing: Replace the bandage daily or sooner if it becomes wet, dirty, or bloody. Reclean the wound each time and reapply ointment. Keep the wound moist but not overly wet to promote faster healing.",
+      "6": "Monitor and care: Watch for signs of infection (increased pain, redness, swelling, warmth, pus, or fever). Keep the area elevated and avoid straining it. Protect from sun exposure to prevent discoloration. Healing time varies: superficial wounds may heal in 3-7 days; deeper ones in 1-2 weeks."
+    },
+    "precautions": "Do not use tight bandages that cut off circulation. Avoid picking at scabs. If the wound is on the face, hands, or joints, seek professional advice. For diabetics or those with poor circulation, monitor closely as healing may be slower.",
+    "when_to_seek_help": "If bleeding doesn't stop, wound worsens, or signs of infection appear. Tetanus shot may be needed if not up-to-date.",
+    "duration": "Typically 3-14 days depending on wound size and location.",
+    "is_self_treatable": true
+  },
+  "infected": {
+    "name": "Treatment Plan for Infected Wound",
+    "description": "This plan is for wounds showing signs of infection like redness spreading from the wound, swelling, warmth, pus drainage, foul odor, increased pain, or systemic symptoms such as fever/chills. Infections can worsen quickly, so professional medical care is often required. Home care supports but does not replace antibiotics or drainage.",
+    "materials": [
+      "Mild soap and clean water",
+      "Sterile gauze or bandages",
+      "Antiseptic solution (e.g., iodine or saline)",
+      "Warm compress (clean cloth soaked in warm water)",
+      "Antibiotic ointment (if prescribed)",
+      "Adhesive tape",
+      "Gloves for hygiene",
+      "Over-the-counter pain relievers (e.g., ibuprofen for swelling/pain)"
+    ],
+    "steps": {
+      "0": "Assess the infection: Note symptoms and severity. If there's high fever (>101°F), red streaks from the wound, numbness, or the person is immunocompromised, seek emergency care immediately as it could indicate sepsis or cellulitis.",
+      "1": "Clean the wound gently: Wash hands and wear gloves. Rinse with saline or clean water—avoid harsh scrubbing. If pus is present, gently express it but do not force. Use antiseptic sparingly to avoid irritating the tissue.",
+      "2": "Apply warm compress: Soak a clean cloth in warm (not hot) water, wring it out, and apply to the wound for 10-15 minutes, 3-4 times a day. This promotes blood flow, reduces swelling, and helps drain pus naturally.",
+      "3": "Dress the wound: Apply a thin layer of prescribed antibiotic ointment if available. Cover with a sterile, non-stick dressing to absorb drainage. Change 2-3 times daily or when soiled. Keep it loosely bandaged to allow air circulation.",
+      "4": "Elevate and rest: Keep the affected area elevated above heart level to reduce swelling. Avoid using the area to prevent further irritation.",
+      "5": "Take medications: Follow doctor's orders for oral antibiotics (e.g., to combat bacterial infection). Use pain relievers for discomfort. Complete the full antibiotic course even if symptoms improve.",
+      "6": "Monitor progress: Check daily for improvement (reduced redness/swelling). If no improvement in 48 hours or worsening, return to doctor. They may need to culture the wound, drain abscesses surgically, or adjust treatment. Full recovery may take 1-4 weeks."
+    },
+    "precautions": "Do not self-drain deep abscesses—risk of spreading infection. Avoid over-the-counter antibiotics without advice. Keep hydrated and maintain good nutrition for immune support. Diabetics or elderly should seek care promptly.",
+    "when_to_seek_help": "Immediately for severe symptoms, or if infection doesn't improve with home care. May require IV antibiotics or hospitalization in serious cases.",
+    "duration": "7-28 days, depending on infection severity and response to treatment.",
+    "is_self_treatable": false
+  }
+}
+
